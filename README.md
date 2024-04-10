@@ -20,13 +20,13 @@ I'm a **software engineer** with almost 5 years of experience
 *currently learning: rust
 
 ### Skills
-**Frontend**: HTML, CSS, JavaScript, TypeScript, Tailwind, Sass, React, Next.js, Angular, Vue, **State management**: Redux, Zustand, Jotai, Recoil
-**Mobile**: React Native, Expo
-**Backend**: Node.js, Express.js, Nest.js, Fastify
-**Database**: SQL, PostgreSQL, MySql, SQLite, MongoDB
-**Cloud**: AWS, Firebase, Vercel
-**Tools**: Docker, Git, GitHub, VSCode, Figma, Jira, Trello, Notion, Obsidian
-**Agile**: Scrum
-**E-commerce**: VTEX, Deco.cx, Medusa.js
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Tailwind, Sass, React, Next.js, Angular, Vue, **State management**: Redux, Zustand, Jotai, Recoil
+- **Mobile**: React Native, Expo
+- **Backend**: Node.js, Express.js, Nest.js, Fastify
+- **Database**: SQL, PostgreSQL, MySql, SQLite, MongoDB
+- **Cloud**: AWS, Firebase, Vercel
+- **Tools**: Docker, Git, GitHub, VSCode, Figma, Jira, Trello, Notion, Obsidian
+- **Agile**: Scrum
+- **E-commerce**: VTEX, Deco.cx, Medusa.js
 
 
