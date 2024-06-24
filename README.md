@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm a **software engineer** with almost 5 years of experience
 
 - currently working: javascript | typescript | react | react native | node.js
-- currently side projecting: java
-- currently learning: rust
+- currently learning and side projecting: java
+<!-- currently learning: rust -->
 
 ### Skills
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, Tailwind, Sass, React, Next.js, Angular, Vue, **State management**: Redux, Zustand, Jotai, Recoil
