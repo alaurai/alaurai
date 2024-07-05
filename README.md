@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a **software engineer** with almost 5 years of experience
+I'm a **software engineer** 
 
 - currently working: javascript | typescript | react | react native | node.js
 - currently learning and side projecting: java
